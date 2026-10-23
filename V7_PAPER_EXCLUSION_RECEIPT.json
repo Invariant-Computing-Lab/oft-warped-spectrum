@@ -1,0 +1,16 @@
+{
+  "academic_publications_excluded_from_corrected_package": true,
+  "excluded_publication_related_paths": [
+    {
+      "path": "manuscript.md",
+      "sha256": "7f6482e8191c1da8f2e9d42be31aa914ed87e516b52c5bc46e47338da39e4fe6"
+    }
+  ],
+  "new_zip_copies_software_files_only": true,
+  "original_release_zip_filename": "oft-warped-spectrum__CP03R1__d4f52e4a3b22.zip",
+  "original_release_zip_sha256": "1e4bf77e445c605e3a312075512c6732f8a12c6ea91d556b0fec2c324ee782c5",
+  "public_release_approved": false,
+  "repository": "oft-warped-spectrum",
+  "schema": "invariant.v7.publication_exclusion.v1",
+  "source_archive_unchanged": true
+}

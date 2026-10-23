@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the accompanying manuscript."
+title: "Invariant Reduction and Falsification of a Warped Five-Dimensional Orbital Field Model"
+type: software
+authors:
+  - family-names: Yildirim
+    given-names: Emirhan
+    orcid: "https://orcid.org/0009-0002-5884-3660"
+date-released: 2026-08-12
+version: "1.0.0"

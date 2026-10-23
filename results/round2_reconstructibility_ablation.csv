@@ -1,0 +1,10 @@
+ablation,distinct_fingerprints,mean_compatible_classes,conditional_entropy_bits,reconstructibility_score,max_exact_identity_accuracy
+Full,16,1.0,0.0,1.0,1.0
+-Spec,8,2.0,1.0,0.75,0.5
+-Parity,8,2.0,1.0,0.75,0.5
+-Chiral,8,2.0,1.0,0.75,0.5
+-Relational,8,2.0,1.0,0.75,0.5
+Spec only,2,8.0,3.0,0.25,0.125
+Structural only,4,4.0,2.0,0.5,0.25
+Relational only,2,8.0,3.0,0.25,0.125
+None,1,16.0,4.0,0.0,0.0625

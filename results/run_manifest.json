@@ -1,0 +1,21 @@
+{
+  "seed": 20260812,
+  "python_protocol": "OFT invariant synthetic/continuum validation v3",
+  "n_experiments": 14,
+  "files": {
+    "figures/fig1_fd_convergence.png": "617b7c763776f2938e9072c7741c3c7bdbaff94b1b7d0a64d7480cf0b255bc89",
+    "figures/fig2_bessel_approximation.png": "45f67cab2433bcdbbcbd6e351b4738e7e67efd95713e2da1588dd4e237da408b",
+    "figures/fig3_source_table_audit.png": "ac2e268d7b8048f026dc35de313237143e118c52d17373f0b8d654187fcdbce1",
+    "figures/fig4_generation_spacing.png": "4742c50f1b01875bc6876fab7f568fb1b129e66c7f781934ca086c46ed65932f",
+    "figures/fig5_discriminant.png": "4db57ac3e6bd1b5cfefae8732c54d7a661ae506c88e077caa489dae32aed7b5b",
+    "figures/fig6_reconstructibility.png": "3652c17301600f7fa0fb4810281b31f0338339057ed1633c51b01c5306da9dbb",
+    "results/all_experiments_summary.csv": "a3012b4fb82f709db78ee4a4ffa39407cd0d1cf7cf90be6b4d06fdf55215d066",
+    "results/final_bessel_approximation_sweep.csv": "588cd7f5f03080f0799a21f68abef5159bc6b42e1a8b7d756005cee06415eca0",
+    "results/final_fd_convergence.csv": "224ccf6b5c653c7b50edf2a2236be98d6e3891e23b55beb4ef48a92c0a37d0e3",
+    "results/final_generation_spacing_scan.csv": "120942c1af2e6f94a6a71b60994198116b87481569cf637d5b134cfaea7b548b",
+    "results/final_source_table_A1_audit.csv": "8ba659b51ff257817d723e745ba6eb241b085068cb2f46c79c599cbd517dbe02",
+    "results/round1_spectral_perturbation.csv": "3ee8a33f2fac58f9d1c50ce60afbd468ccb757356d92b6997cbe1074ddeb2b07",
+    "results/round2_discriminant.csv": "bb48cedba3b0893c3001bd0b8f888646084a716e52cd05809e5f5e37b6ab6cfd",
+    "results/round2_reconstructibility_ablation.csv": "bb539bcb5ad4331933c5772b76f59d913b0c7dc45f0100827fec9789efe3d22d"
+  }
+}

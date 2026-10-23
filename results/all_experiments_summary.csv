@@ -1,0 +1,32 @@
+experiment,family,metric,estimate,replicates_or_n
+E1,spectral conjugation,median eigenvalue relative error,4.952626130424397e-16,1000
+E1,spectral conjugation,median raw matrix relative change,0.9894264520521441,1000
+E1,spectral conjugation,median power-trace relative error,1.0765818592029652e-15,1000
+E2,non-isospectral control,log-log spectral sensitivity slope,0.9990891489714485,5
+E3,weighted Gram,median covariant-metric error,5.954819318347102e-16,500
+E3,weighted Gram,median fixed-metric negative-control error,0.8884213281383676,500
+E4,overlap covariance,median entrywise relative change,1.3837165625471566,1000
+E4,overlap covariance,median spectrum relative error,5.314030269514095e-16,1000
+E5,degenerate Higgs,median diagonal-overlap relative change,1.0688237350755223,1000
+E5,degenerate Higgs,median projected-spectrum error,3.519431006061961e-16,1000
+E6,normalization quotient,median ratio error,0.0,2000
+E6,normalization quotient,median projective error,1.1102230246251565e-16,2000
+E6,normalization quotient,median raw coefficient change,2.3799898099832606,2000
+E7,unit quotient,median kL relative error,0.0,5000
+E7,unit quotient,median M/k relative error,0.0,5000
+E7,unit quotient,median raw log-parameter displacement,7.68470034209574,5000
+E8,critical locus,near-critical discriminant slope,1.9999936954345134,5
+E9,joint relational,median mixed-trace error,2.3296483139675417e-16,2000
+E9,joint relational,median raw-pair change,0.6800166874908302,2000
+E10,reconstructibility ablation,full-fingerprint reconstructibility score,1.0,16
+E10,reconstructibility ablation,spectrum-only reconstructibility score,0.25,16
+E11,warped FD validation,observed convergence order,2.0208077935702042,5
+E11,warped FD validation,N=6400 max relative error,0.00015524356460946896,6
+E12,large-warp approximation,worst max relative error in sweep,0.20190779031806652,30
+E12,large-warp approximation,"c=0.4,kappa=10 max relative error",1.053305089190741e-07,4
+E13,source table audit,max absolute relative error vs stated J_0.9,0.04770868258277207,3
+E13,source table audit,max absolute relative error vs J_0.8,0.011174959444479894,3
+E14,generation spacing,max x2/x1 over c scan,2.2872619680568382,500
+E14,generation spacing,max x3/x1 over c scan,3.5820477619355664,500
+E14,generation spacing,PDG2026 mu/e mass ratio,206.76828270846718,1
+E14,generation spacing,PDG2026 tau/e mass ratio,3477.3652619063464,1

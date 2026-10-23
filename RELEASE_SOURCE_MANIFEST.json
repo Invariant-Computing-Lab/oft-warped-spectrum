@@ -1,0 +1,206 @@
+{
+  "excluded_counts": {
+    "NONSOFTWARE_DOC_OR_SECRET_FORMAT": 4
+  },
+  "files": [
+    {
+      "bytes": 282,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/.github/workflows/source-check.yml",
+      "path": ".github/workflows/source-check.yml",
+      "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+    },
+    {
+      "bytes": 378,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/CITATION.cff",
+      "path": "CITATION.cff",
+      "sha256": "b9c799984cc4c76ff927680f2664ce4f2133ca8a475dd3bcf0d65b31217ac1d5"
+    },
+    {
+      "bytes": 508,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/DEPENDENCIES_AND_CHECKS.md",
+      "path": "DEPENDENCIES_AND_CHECKS.md",
+      "sha256": "55b7c5464933249aeeb4d189b747b0c53c6cb23252becc18d244d8bb6f5b2f89"
+    },
+    {
+      "bytes": 5307,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/FILE_MANIFEST.json",
+      "path": "FILE_MANIFEST.json",
+      "sha256": "f097207edf3ac36f1bac306c1d01038928c3121a73d55331f3aafec4d749c6d9"
+    },
+    {
+      "bytes": 2734,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/PACKAGE_MANIFEST.csv",
+      "path": "PACKAGE_MANIFEST.csv",
+      "sha256": "9f12af794ee75c0930f46479439d544381530f900d6e04eb35a50984c1d253f0"
+    },
+    {
+      "bytes": 1839,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/README.md",
+      "path": "README.md",
+      "sha256": "aea2ec1c829b52913073cd3c48d2950bf04c2e3fce2b3d32a0e7d20e5687531e"
+    },
+    {
+      "bytes": 215,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/RELEASE_NOTES.md",
+      "path": "RELEASE_NOTES.md",
+      "sha256": "ff1d760ca9965999eb8e3b81b9eab0c150f3ef3ff9482fa22ad6de93bc938326"
+    },
+    {
+      "bytes": 1045,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/RELEASE_SPEC.json",
+      "path": "RELEASE_SPEC.json",
+      "sha256": "e7c7ddee86c9193156a6d5ed706179f5c6c05078cbe0f221e18580b83c77eaf7"
+    },
+    {
+      "bytes": 1846,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/SUBMISSION_NOTES.md",
+      "path": "SUBMISSION_NOTES.md",
+      "sha256": "cbeb05fea56949e3a3bb3f60ec97d2390aebb4c0f9050d58f6e2d726ab537a1d"
+    },
+    {
+      "bytes": 2914,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/UPSTREAM_README.md",
+      "path": "UPSTREAM_README.md",
+      "sha256": "4f8bc089318fb666b7eed352b3e3d1128a9034e1df02f30b656c79cbfb017c00"
+    },
+    {
+      "bytes": 4260,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/checks/RESULT.json",
+      "path": "checks/RESULT.json",
+      "sha256": "dd9f2c8976274638075327477c4f8a933434aaa8663267449c62a9f65328f985"
+    },
+    {
+      "bytes": 89976,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/figures/fig1_fd_convergence.png",
+      "path": "figures/fig1_fd_convergence.png",
+      "sha256": "617b7c763776f2938e9072c7741c3c7bdbaff94b1b7d0a64d7480cf0b255bc89"
+    },
+    {
+      "bytes": 165391,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/figures/fig2_bessel_approximation.png",
+      "path": "figures/fig2_bessel_approximation.png",
+      "sha256": "45f67cab2433bcdbbcbd6e351b4738e7e67efd95713e2da1588dd4e237da408b"
+    },
+    {
+      "bytes": 94525,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/figures/fig3_source_table_audit.png",
+      "path": "figures/fig3_source_table_audit.png",
+      "sha256": "ac2e268d7b8048f026dc35de313237143e118c52d17373f0b8d654187fcdbce1"
+    },
+    {
+      "bytes": 78271,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/figures/fig4_generation_spacing.png",
+      "path": "figures/fig4_generation_spacing.png",
+      "sha256": "4742c50f1b01875bc6876fab7f568fb1b129e66c7f781934ca086c46ed65932f"
+    },
+    {
+      "bytes": 65481,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/figures/fig5_discriminant.png",
+      "path": "figures/fig5_discriminant.png",
+      "sha256": "4db57ac3e6bd1b5cfefae8732c54d7a661ae506c88e077caa489dae32aed7b5b"
+    },
+    {
+      "bytes": 100673,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/figures/fig6_reconstructibility.png",
+      "path": "figures/fig6_reconstructibility.png",
+      "sha256": "3652c17301600f7fa0fb4810281b31f0338339057ed1633c51b01c5306da9dbb"
+    },
+    {
+      "bytes": 32695,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/manuscript.md",
+      "path": "manuscript.md",
+      "sha256": "7f6482e8191c1da8f2e9d42be31aa914ed87e516b52c5bc46e47338da39e4fe6"
+    },
+    {
+      "bytes": 74,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/requirements.txt",
+      "path": "requirements.txt",
+      "sha256": "a1afb3d4acc8077b5e8a8a751ee71d0a2ff0ff6a64cf14121781d219a5beab1b"
+    },
+    {
+      "bytes": 2396,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/all_experiments_summary.csv",
+      "path": "results/all_experiments_summary.csv",
+      "sha256": "a3012b4fb82f709db78ee4a4ffa39407cd0d1cf7cf90be6b4d06fdf55215d066"
+    },
+    {
+      "bytes": 8100,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/final_bessel_approximation_sweep.csv",
+      "path": "results/final_bessel_approximation_sweep.csv",
+      "sha256": "588cd7f5f03080f0799a21f68abef5159bc6b42e1a8b7d756005cee06415eca0"
+    },
+    {
+      "bytes": 2590,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/final_fd_convergence.csv",
+      "path": "results/final_fd_convergence.csv",
+      "sha256": "224ccf6b5c653c7b50edf2a2236be98d6e3891e23b55beb4ef48a92c0a37d0e3"
+    },
+    {
+      "bytes": 56781,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/final_generation_spacing_scan.csv",
+      "path": "results/final_generation_spacing_scan.csv",
+      "sha256": "120942c1af2e6f94a6a71b60994198116b87481569cf637d5b134cfaea7b548b"
+    },
+    {
+      "bytes": 348,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/final_source_table_A1_audit.csv",
+      "path": "results/final_source_table_A1_audit.csv",
+      "sha256": "8ba659b51ff257817d723e745ba6eb241b085068cb2f46c79c599cbd517dbe02"
+    },
+    {
+      "bytes": 391,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/round1_spectral_perturbation.csv",
+      "path": "results/round1_spectral_perturbation.csv",
+      "sha256": "3ee8a33f2fac58f9d1c50ce60afbd468ccb757356d92b6997cbe1074ddeb2b07"
+    },
+    {
+      "bytes": 452,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/round2_discriminant.csv",
+      "path": "results/round2_discriminant.csv",
+      "sha256": "bb48cedba3b0893c3001bd0b8f888646084a716e52cd05809e5f5e37b6ab6cfd"
+    },
+    {
+      "bytes": 397,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/round2_reconstructibility_ablation.csv",
+      "path": "results/round2_reconstructibility_ablation.csv",
+      "sha256": "bb539bcb5ad4331933c5772b76f59d913b0c7dc45f0100827fec9789efe3d22d"
+    },
+    {
+      "bytes": 1708,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/results/run_manifest.json",
+      "path": "results/run_manifest.json",
+      "sha256": "3a71a31bfb3dcf7ba991f55fe7ebf8afd2a1bf82014280faf62a9a5aaad7dfb6"
+    },
+    {
+      "bytes": 2366,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/run_checks.py",
+      "path": "run_checks.py",
+      "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+    },
+    {
+      "bytes": 4150,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/src/oft_invariants.py",
+      "path": "src/oft_invariants.py",
+      "sha256": "4395a7219fd13f2ce0b89f3b072a2fbc6fe69a3e115b33ee8a0c9b74c731e71d"
+    },
+    {
+      "bytes": 14687,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/src/run_all_experiments.py",
+      "path": "src/run_all_experiments.py",
+      "sha256": "2725a707e8ce0fc2063b9a3494a2ac5fb210b7c55ce9678c7fa0a071fc8efd4f"
+    },
+    {
+      "bytes": 21441,
+      "original_source_member": "Invariant_CP03R1/github/oft-warped-spectrum/supplementary_appendix.md",
+      "path": "supplementary_appendix.md",
+      "sha256": "0954e64c3877c2f4f388e6a9d6de6a4eb8dfe5fd3b0308246571ed521d95cdff"
+    }
+  ],
+  "published_files": 32,
+  "repository": "github/oft-warped-spectrum",
+  "schema": "invariant.source_member_manifest.v1",
+  "scope": "source files + minimal repository metadata; no new training or independent experiment",
+  "selected_from_files": 36,
+  "source_archive": "CP03R1",
+  "source_archive_sha256": "9507b5a42e661ae7588ab69cb395597749f043c419ebd981a6c91051516a3209"
+}
